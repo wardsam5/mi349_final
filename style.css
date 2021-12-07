@@ -1,0 +1,32 @@
+body{
+	background-color: #EEEEEE;
+	font-family: Arial;
+}
+
+.container{
+	display: flex;
+	justify-content: center;
+}
+
+.box{
+	border-style: solid;
+	border-width: 3px;
+	background-color: white;
+	width: 50%;
+}
+
+header{
+	text-align: center;
+}
+
+header h1{
+	color: #950740;
+}
+
+#nav-links{
+	background-color: #950740;
+}
+
+#nav-links a{
+	color: white;
+}
