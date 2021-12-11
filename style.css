@@ -64,13 +64,15 @@ header h1{
 	float: left;
 	width: 200px;
 	height: 200px;
-	/*background-color: #574D4D;*/
+	background-color: #574D4D;
 	margin-right: 10px;
 }
 
 #personalImage{
-	width: 200px;
-	height: 200px;
+	margin-left: 4px;
+	margin-top: 4px;
+	width: 192px;
+	height: 192px;
 }
 
 #info-section{
